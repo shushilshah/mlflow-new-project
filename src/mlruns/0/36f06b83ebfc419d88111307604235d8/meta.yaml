@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/mlflow/second/src/mlruns/0/36f06b83ebfc419d88111307604235d8/artifacts
+end_time: 1739530751195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36f06b83ebfc419d88111307604235d8
+run_name: intrigued-duck-982
+run_uuid: 36f06b83ebfc419d88111307604235d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739530750932
+status: 3
+tags: []
+user_id: Acer

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/332724962228606616/e22e6f7c2914420ba0f2a2e2a997650e/artifacts
+end_time: 1739538696932
+entry_point_name: ''
+experiment_id: '332724962228606616'
+lifecycle_stage: active
+run_id: e22e6f7c2914420ba0f2a2e2a997650e
+run_name: upbeat-wasp-655
+run_uuid: e22e6f7c2914420ba0f2a2e2a997650e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739538669037
+status: 3
+tags: []
+user_id: Acer

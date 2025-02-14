@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4191b63dd5eb4626a5f0ca06a784bc54/artifacts
+end_time: 1739534714744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4191b63dd5eb4626a5f0ca06a784bc54
+run_name: rogue-cod-794
+run_uuid: 4191b63dd5eb4626a5f0ca06a784bc54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739534711502
+status: 3
+tags: []
+user_id: Acer
